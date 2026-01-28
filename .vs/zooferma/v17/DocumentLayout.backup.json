@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\deyn3\\source\\repos\\zooferma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB31CB-ACD9-4302-B246-AD1844B0E0F5}|ZooFerma\\ZooFerma.csproj|c:\\users\\deyn3\\source\\repos\\zooferma\\zooferma\\clientapp\\src\\app\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58EB31CB-ACD9-4302-B246-AD1844B0E0F5}|ZooFerma\\ZooFerma.csproj|solutionrelative:zooferma\\clientapp\\src\\app\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB31CB-ACD9-4302-B246-AD1844B0E0F5}|ZooFerma\\ZooFerma.csproj|c:\\users\\deyn3\\source\\repos\\zooferma\\zooferma\\clientapp\\src\\app\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{58EB31CB-ACD9-4302-B246-AD1844B0E0F5}|ZooFerma\\ZooFerma.csproj|solutionrelative:zooferma\\clientapp\\src\\app\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB31CB-ACD9-4302-B246-AD1844B0E0F5}|ZooFerma\\ZooFerma.csproj|c:\\users\\deyn3\\source\\repos\\zooferma\\zooferma\\clientapp\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{58EB31CB-ACD9-4302-B246-AD1844B0E0F5}|ZooFerma\\ZooFerma.csproj|solutionrelative:zooferma\\clientapp\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB31CB-ACD9-4302-B246-AD1844B0E0F5}|ZooFerma\\ZooFerma.csproj|c:\\users\\deyn3\\source\\repos\\zooferma\\zooferma\\clientapp\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58EB31CB-ACD9-4302-B246-AD1844B0E0F5}|ZooFerma\\ZooFerma.csproj|solutionrelative:zooferma\\clientapp\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB31CB-ACD9-4302-B246-AD1844B0E0F5}|ZooFerma\\ZooFerma.csproj|c:\\users\\deyn3\\source\\repos\\zooferma\\zooferma\\clientapp\\src\\services\\session.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{58EB31CB-ACD9-4302-B246-AD1844B0E0F5}|ZooFerma\\ZooFerma.csproj|solutionrelative:zooferma\\clientapp\\src\\services\\session.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB31CB-ACD9-4302-B246-AD1844B0E0F5}|ZooFerma\\ZooFerma.csproj|c:\\users\\deyn3\\source\\repos\\zooferma\\zooferma\\controllers\\dbsqlservercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB31CB-ACD9-4302-B246-AD1844B0E0F5}|ZooFerma\\ZooFerma.csproj|solutionrelative:zooferma\\controllers\\dbsqlservercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB31CB-ACD9-4302-B246-AD1844B0E0F5}|ZooFerma\\ZooFerma.csproj|c:\\users\\deyn3\\source\\repos\\zooferma\\zooferma\\clientapp\\src\\models\\connection.infos.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{58EB31CB-ACD9-4302-B246-AD1844B0E0F5}|ZooFerma\\ZooFerma.csproj|solutionrelative:zooferma\\clientapp\\src\\models\\connection.infos.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB31CB-ACD9-4302-B246-AD1844B0E0F5}|ZooFerma\\ZooFerma.csproj|c:\\users\\deyn3\\source\\repos\\zooferma\\zooferma\\models\\dao\\connectioninfos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB31CB-ACD9-4302-B246-AD1844B0E0F5}|ZooFerma\\ZooFerma.csproj|solutionrelative:zooferma\\models\\dao\\connectioninfos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB31CB-ACD9-4302-B246-AD1844B0E0F5}|ZooFerma\\ZooFerma.csproj|c:\\users\\deyn3\\source\\repos\\zooferma\\zooferma\\services\\dao\\impls\\dbservacedaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB31CB-ACD9-4302-B246-AD1844B0E0F5}|ZooFerma\\ZooFerma.csproj|solutionrelative:zooferma\\services\\dao\\impls\\dbservacedaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB31CB-ACD9-4302-B246-AD1844B0E0F5}|ZooFerma\\ZooFerma.csproj|c:\\users\\deyn3\\source\\repos\\zooferma\\zooferma\\clientapp\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{58EB31CB-ACD9-4302-B246-AD1844B0E0F5}|ZooFerma\\ZooFerma.csproj|solutionrelative:zooferma\\clientapp\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB31CB-ACD9-4302-B246-AD1844B0E0F5}|ZooFerma\\ZooFerma.csproj|c:\\users\\deyn3\\source\\repos\\zooferma\\zooferma\\services\\dao\\idbservicedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB31CB-ACD9-4302-B246-AD1844B0E0F5}|ZooFerma\\ZooFerma.csproj|solutionrelative:zooferma\\services\\dao\\idbservicedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB31CB-ACD9-4302-B246-AD1844B0E0F5}|ZooFerma\\ZooFerma.csproj|c:\\users\\deyn3\\source\\repos\\zooferma\\zooferma\\services\\dto\\impls\\dbserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB31CB-ACD9-4302-B246-AD1844B0E0F5}|ZooFerma\\ZooFerma.csproj|solutionrelative:zooferma\\services\\dto\\impls\\dbserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB31CB-ACD9-4302-B246-AD1844B0E0F5}|ZooFerma\\ZooFerma.csproj|c:\\users\\deyn3\\source\\repos\\zooferma\\zooferma\\services\\dto\\idbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB31CB-ACD9-4302-B246-AD1844B0E0F5}|ZooFerma\\ZooFerma.csproj|solutionrelative:zooferma\\services\\dto\\idbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB31CB-ACD9-4302-B246-AD1844B0E0F5}|ZooFerma\\ZooFerma.csproj|c:\\users\\deyn3\\source\\repos\\zooferma\\zooferma\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{58EB31CB-ACD9-4302-B246-AD1844B0E0F5}|ZooFerma\\ZooFerma.csproj|solutionrelative:zooferma\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB31CB-ACD9-4302-B246-AD1844B0E0F5}|ZooFerma\\ZooFerma.csproj|c:\\users\\deyn3\\source\\repos\\zooferma\\zooferma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB31CB-ACD9-4302-B246-AD1844B0E0F5}|ZooFerma\\ZooFerma.csproj|solutionrelative:zooferma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB31CB-ACD9-4302-B246-AD1844B0E0F5}|ZooFerma\\ZooFerma.csproj|c:\\users\\deyn3\\source\\repos\\zooferma\\zooferma\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB31CB-ACD9-4302-B246-AD1844B0E0F5}|ZooFerma\\ZooFerma.csproj|solutionrelative:zooferma\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB31CB-ACD9-4302-B246-AD1844B0E0F5}|ZooFerma\\ZooFerma.csproj|c:\\users\\deyn3\\source\\repos\\zooferma\\zooferma\\scripts\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{58EB31CB-ACD9-4302-B246-AD1844B0E0F5}|ZooFerma\\ZooFerma.csproj|solutionrelative:zooferma\\scripts\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\deyn3\\source\\repos\\zooferma\\ZooFerma\\ClientApp\\src\\index.html",
+              "RelativeDocumentMoniker": "ZooFerma\\ClientApp\\src\\index.html",
+              "ToolTip": "C:\\Users\\deyn3\\source\\repos\\zooferma\\ZooFerma\\ClientApp\\src\\index.html",
+              "RelativeToolTip": "ZooFerma\\ClientApp\\src\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-01-27T23:09:33.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "session.service.ts",
+              "DocumentMoniker": "C:\\Users\\deyn3\\source\\repos\\zooferma\\ZooFerma\\ClientApp\\src\\services\\session.service.ts",
+              "RelativeDocumentMoniker": "ZooFerma\\ClientApp\\src\\services\\session.service.ts",
+              "ToolTip": "C:\\Users\\deyn3\\source\\repos\\zooferma\\ZooFerma\\ClientApp\\src\\services\\session.service.ts",
+              "RelativeToolTip": "ZooFerma\\ClientApp\\src\\services\\session.service.ts",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-27T22:51:23.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "connection.infos.ts",
+              "DocumentMoniker": "C:\\Users\\deyn3\\source\\repos\\zooferma\\ZooFerma\\ClientApp\\src\\models\\connection.infos.ts",
+              "RelativeDocumentMoniker": "ZooFerma\\ClientApp\\src\\models\\connection.infos.ts",
+              "ToolTip": "C:\\Users\\deyn3\\source\\repos\\zooferma\\ZooFerma\\ClientApp\\src\\models\\connection.infos.ts",
+              "RelativeToolTip": "ZooFerma\\ClientApp\\src\\models\\connection.infos.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-27T22:15:56.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "login.component.ts",
+              "DocumentMoniker": "C:\\Users\\deyn3\\source\\repos\\zooferma\\ZooFerma\\ClientApp\\src\\app\\login\\login.component.ts",
+              "RelativeDocumentMoniker": "ZooFerma\\ClientApp\\src\\app\\login\\login.component.ts",
+              "ToolTip": "C:\\Users\\deyn3\\source\\repos\\zooferma\\ZooFerma\\ClientApp\\src\\app\\login\\login.component.ts",
+              "RelativeToolTip": "ZooFerma\\ClientApp\\src\\app\\login\\login.component.ts",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-27T22:08:43.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.component.html",
+              "DocumentMoniker": "C:\\Users\\deyn3\\source\\repos\\zooferma\\ZooFerma\\ClientApp\\src\\app\\login\\login.component.html",
+              "RelativeDocumentMoniker": "ZooFerma\\ClientApp\\src\\app\\login\\login.component.html",
+              "ToolTip": "C:\\Users\\deyn3\\source\\repos\\zooferma\\ZooFerma\\ClientApp\\src\\app\\login\\login.component.html",
+              "RelativeToolTip": "ZooFerma\\ClientApp\\src\\app\\login\\login.component.html",
+              "ViewState": "AgIAABsAAAAAAAAAAADwvykAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-01-27T22:08:20.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "proxy.conf.js",
+              "DocumentMoniker": "C:\\Users\\deyn3\\source\\repos\\zooferma\\ZooFerma\\ClientApp\\proxy.conf.js",
+              "RelativeDocumentMoniker": "ZooFerma\\ClientApp\\proxy.conf.js",
+              "ToolTip": "C:\\Users\\deyn3\\source\\repos\\zooferma\\ZooFerma\\ClientApp\\proxy.conf.js",
+              "RelativeToolTip": "ZooFerma\\ClientApp\\proxy.conf.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-27T22:06:27.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\deyn3\\source\\repos\\zooferma\\ZooFerma\\ClientApp\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "ZooFerma\\ClientApp\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\deyn3\\source\\repos\\zooferma\\ZooFerma\\ClientApp\\src\\app\\app.module.ts",
+              "RelativeToolTip": "ZooFerma\\ClientApp\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-27T22:02:33.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConnectionInfos.cs",
+              "DocumentMoniker": "C:\\Users\\deyn3\\Source\\Repos\\zooferma\\ZooFerma\\Models\\Dao\\ConnectionInfos.cs",
+              "RelativeDocumentMoniker": "ZooFerma\\Models\\Dao\\ConnectionInfos.cs",
+              "ToolTip": "C:\\Users\\deyn3\\Source\\Repos\\zooferma\\ZooFerma\\Models\\Dao\\ConnectionInfos.cs",
+              "RelativeToolTip": "ZooFerma\\Models\\Dao\\ConnectionInfos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T16:48:32.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DbServaceDAOImpl.cs",
+              "DocumentMoniker": "C:\\Users\\deyn3\\source\\repos\\zooferma\\ZooFerma\\Services\\Dao\\Impls\\DbServaceDAOImpl.cs",
+              "RelativeDocumentMoniker": "ZooFerma\\Services\\Dao\\Impls\\DbServaceDAOImpl.cs",
+              "ToolTip": "C:\\Users\\deyn3\\source\\repos\\zooferma\\ZooFerma\\Services\\Dao\\Impls\\DbServaceDAOImpl.cs",
+              "RelativeToolTip": "ZooFerma\\Services\\Dao\\Impls\\DbServaceDAOImpl.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T16:33:38.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDbServiceDAO.cs",
+              "DocumentMoniker": "C:\\Users\\deyn3\\source\\repos\\zooferma\\ZooFerma\\Services\\Dao\\IDbServiceDAO.cs",
+              "RelativeDocumentMoniker": "ZooFerma\\Services\\Dao\\IDbServiceDAO.cs",
+              "ToolTip": "C:\\Users\\deyn3\\source\\repos\\zooferma\\ZooFerma\\Services\\Dao\\IDbServiceDAO.cs",
+              "RelativeToolTip": "ZooFerma\\Services\\Dao\\IDbServiceDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T16:32:34.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DbServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\deyn3\\source\\repos\\zooferma\\ZooFerma\\Services\\Dto\\Impls\\DbServiceImpl.cs",
+              "RelativeDocumentMoniker": "ZooFerma\\Services\\Dto\\Impls\\DbServiceImpl.cs",
+              "ToolTip": "C:\\Users\\deyn3\\source\\repos\\zooferma\\ZooFerma\\Services\\Dto\\Impls\\DbServiceImpl.cs",
+              "RelativeToolTip": "ZooFerma\\Services\\Dto\\Impls\\DbServiceImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T16:23:53.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IDbService.cs",
+              "DocumentMoniker": "C:\\Users\\deyn3\\Source\\Repos\\zooferma\\ZooFerma\\Services\\Dto\\IDbService.cs",
+              "RelativeDocumentMoniker": "ZooFerma\\Services\\Dto\\IDbService.cs",
+              "ToolTip": "C:\\Users\\deyn3\\Source\\Repos\\zooferma\\ZooFerma\\Services\\Dto\\IDbService.cs",
+              "RelativeToolTip": "ZooFerma\\Services\\Dto\\IDbService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T16:22:12.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbSqlServerController.cs",
+              "DocumentMoniker": "C:\\Users\\deyn3\\source\\repos\\zooferma\\ZooFerma\\Controllers\\DbSqlServerController.cs",
+              "RelativeDocumentMoniker": "ZooFerma\\Controllers\\DbSqlServerController.cs",
+              "ToolTip": "C:\\Users\\deyn3\\source\\repos\\zooferma\\ZooFerma\\Controllers\\DbSqlServerController.cs",
+              "RelativeToolTip": "ZooFerma\\Controllers\\DbSqlServerController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T16:19:22.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\deyn3\\source\\repos\\zooferma\\ZooFerma\\Scripts\\docker-compose.yml",
+              "RelativeDocumentMoniker": "ZooFerma\\Scripts\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\deyn3\\source\\repos\\zooferma\\ZooFerma\\Scripts\\docker-compose.yml",
+              "RelativeToolTip": "ZooFerma\\Scripts\\docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-01-27T14:24:03.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\deyn3\\source\\repos\\zooferma\\ZooFerma\\Program.cs",
+              "RelativeDocumentMoniker": "ZooFerma\\Program.cs",
+              "ToolTip": "C:\\Users\\deyn3\\source\\repos\\zooferma\\ZooFerma\\Program.cs",
+              "RelativeToolTip": "ZooFerma\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAD4vxgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T14:21:18.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\deyn3\\source\\repos\\zooferma\\ZooFerma\\appsettings.json",
+              "RelativeDocumentMoniker": "ZooFerma\\appsettings.json",
+              "ToolTip": "C:\\Users\\deyn3\\source\\repos\\zooferma\\ZooFerma\\appsettings.json",
+              "RelativeToolTip": "ZooFerma\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-03T17:50:55.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\deyn3\\source\\repos\\zooferma\\ZooFerma\\DataContext.cs",
+              "RelativeDocumentMoniker": "ZooFerma\\DataContext.cs",
+              "ToolTip": "C:\\Users\\deyn3\\source\\repos\\zooferma\\ZooFerma\\DataContext.cs",
+              "RelativeToolTip": "ZooFerma\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T16:13:57.962Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

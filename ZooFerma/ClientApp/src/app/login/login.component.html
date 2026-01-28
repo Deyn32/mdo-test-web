@@ -1,0 +1,46 @@
+<div class="container">
+  <div class="container flex flex-column gap-3">
+    <p-fieldset legend="Состояние подключения" [toggleable]="true" [collapsed]="false">
+      <div class="grid p-fluid">
+        <div class="col-12 md:col-6 font-bold">Адрес базы данных:</div>
+        <div class="col-12 md:col-6">
+          <span class="pi pi-server mr-2"></span>
+          {{connectionInfo.dataSource}}
+        </div>
+        <div class="col-12 md:col-6 font-bold">Имя базы данных:</div>
+        <div class="col-12 md:col-6">{{connectionInfo.database}}</div>
+
+        <div class="col-12 md:col-6 font-bold">Состояние подключения:</div>
+        <div class="col-12 md:col-6">
+          <p-tag [value]="connectionInfo.state === 'Open' ? 'Открыто' : connectionInfo.state === 'Closed' ? 'Закрыто' : ''"
+                 [severity]="connectionInfo.state === 'Open' ? 'success' : 'danger'"
+                 icon="pi pi-database"></p-tag>
+        </div>
+      </div>
+      <br />
+      <div class="flex gap-2">
+        <p-button label="Открыть соединение"
+                  icon="pi pi-plug"
+                  [loading]="loading"
+                  (onClick)="openConnection()"
+                  severity="success"
+                  [disabled]="connectionInfo.state === 'Open'">
+        </p-button>
+
+        <p-button label="Закрыть соединение"
+                  icon="pi pi-power-off"
+                  [loading]="loading"
+                  (onClick)="closeConnection()"
+                  severity="danger"
+                  [disabled]="!connectionInfo.state || connectionInfo.state === 'Closed'">
+        </p-button>
+      </div>
+    </p-fieldset>
+  </div>
+  <br />
+  <br />
+  <div class="mt-3">
+    <p-tag value="{{version}}" severity="info" styleClass="version-tag"></p-tag>
+  </div>
+</div>
+
